@@ -1,0 +1,2857 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65878661406,
+                    -27.01550423250
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65865867720,
+                    -27.01542954951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65926883785,
+                    -27.01639042698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates",
+                "id": "9"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65890068836,
+                        -27.01592342012
+                    ],
+                    [
+                        -48.65891187492,
+                        -27.01594080262
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65892910787,
+                    -27.01632067800
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65879491526,
+                    -27.01625258697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65910098957,
+                    -27.01604040927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL",
+                "id": "37"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65910098957,
+                        -27.01604040927
+                    ],
+                    [
+                        -48.65905986660,
+                        -27.01606154526
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65868789285,
+                    -27.01608681340
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "id": "5",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65904664911,
+                        -27.01595649749
+                    ],
+                    [
+                        -48.65901834416,
+                        -27.01597104542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65875622222,
+                    -27.01539694267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65879541238,
+                    -27.01551790906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "id": "35",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65871881608,
+                        -27.01539884373
+                    ],
+                    [
+                        -48.65865867720,
+                        -27.01542954951
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65906893984,
+                    -27.01599091854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "12",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65870649994,
+                        -27.01537969886
+                    ],
+                    [
+                        -48.65873480386,
+                        -27.01536524740
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65898746568,
+                    -27.01592728049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65886089513,
+                    -27.01561969881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL",
+                "id": "29"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65928740730,
+                        -27.01683448148
+                    ],
+                    [
+                        -48.65923834522,
+                        -27.01685954057
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "41",
+                "type": "outside corridor",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65866188239,
+                        -27.01531034292
+                    ],
+                    [
+                        -48.65830545237,
+                        -27.01549232946
+                    ],
+                    [
+                        -48.65833707500,
+                        -27.01554148532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65884764977,
+                    -27.01559910954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65929888456,
+                    -27.01673297331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65887671049,
+                    -27.01599040717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65877045180,
+                    -27.01547910903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "12",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65909330992,
+                        -27.01602855047
+                    ],
+                    [
+                        -48.65911209862,
+                        -27.01601889362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65911989274,
+                    -27.01606959927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65904212577,
+                    -27.01594951262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65913271829,
+                    -27.01643860873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "id": "4",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65833707500,
+                        -27.01554148532
+                    ],
+                    [
+                        -48.65868789285,
+                        -27.01608681340
+                    ],
+                    [
+                        -48.65887671049,
+                        -27.01599040717
+                    ],
+                    [
+                        -48.65879057545,
+                        -27.01585651486
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65941086631,
+                    -27.01667577711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL",
+                "id": "18"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65939546853,
+                        -27.01700239350
+                    ],
+                    [
+                        -48.65941993353,
+                        -27.01698989770
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65891187492,
+                    -27.01594080262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65942969332,
+                    -27.01699821787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65919846722,
+                    -27.01654077376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65923016851,
+                    -27.01610074183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates",
+                "id": "28"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65885020477,
+                        -27.01594920546
+                    ],
+                    [
+                        -48.65899414988,
+                        -27.01587568303
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65904664911,
+                    -27.01595649749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65941993353,
+                    -27.01698989770
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65830545237,
+                    -27.01549232946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "id": "3",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65884764977,
+                        -27.01559910954
+                    ],
+                    [
+                        -48.65881711523,
+                        -27.01555164510
+                    ],
+                    [
+                        -48.65866188239,
+                        -27.01531034292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "id": "24",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65901720241,
+                        -27.01591102629
+                    ],
+                    [
+                        -48.65904395065,
+                        -27.01589727846
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65904395065,
+                    -27.01589727846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65905986660,
+                    -27.01606154526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65917206381,
+                    -27.01684092799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "id": "27",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65904212577,
+                        -27.01594951262
+                    ],
+                    [
+                        -48.65906083540,
+                        -27.01593989641
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates",
+                "id": "39"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65929374454,
+                        -27.01668882178
+                    ],
+                    [
+                        -48.65931640087,
+                        -27.01672402662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65871836655,
+                    -27.01539814496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65931640087,
+                    -27.01672402662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65913950304,
+                    -27.01618945765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65929832803,
+                    -27.01685145076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "id": "14",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65878715485,
+                        -27.01550507313
+                    ],
+                    [
+                        -48.65876365680,
+                        -27.01551707078
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65904693570,
+                    -27.01650376679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65927026856,
+                    -27.01680785024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL",
+                "id": "7"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65872714418,
+                        -27.01541178938
+                    ],
+                    [
+                        -48.65875622222,
+                        -27.01539694267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65907223513,
+                    -27.01599600708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65890068836,
+                    -27.01592342012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65883095587,
+                    -27.01557315969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "id": "46",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65909335627,
+                        -27.01602862204
+                    ],
+                    [
+                        -48.65906514284,
+                        -27.01604312292
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65873480386,
+                    -27.01536524740
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "oneway": "no",
+                "id": "22",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65905866003,
+                        -27.01611787512
+                    ],
+                    [
+                        -48.65879491526,
+                        -27.01625258697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65928740730,
+                    -27.01683448148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65910906314,
+                    -27.01609151473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65909004574,
+                    -27.01598007072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65866188239,
+                    -27.01531034292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65878661406,
+                        -27.01550423250
+                    ],
+                    [
+                        -48.65881397838,
+                        -27.01549026081
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "21",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65901837518,
+                        -27.01574020496
+                    ],
+                    [
+                        -48.65892108248,
+                        -27.01558896832
+                    ],
+                    [
+                        -48.65886089513,
+                        -27.01561969881
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65901837518,
+                    -27.01574020496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65892070879,
+                    -27.01632496796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65899414988,
+                    -27.01587568303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "42",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65906893984,
+                        -27.01599091854
+                    ],
+                    [
+                        -48.65909004574,
+                        -27.01598007072
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65921709138,
+                    -27.01685197742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "45",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65921032175,
+                        -27.01607009477
+                    ],
+                    [
+                        -48.65923016851,
+                        -27.01610074183
+                    ],
+                    [
+                        -48.65916366592,
+                        -27.01613654622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65939987934,
+                    -27.01694981195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65918795170,
+                    -27.01686686089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "id": "2",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65929832803,
+                        -27.01685145076
+                    ],
+                    [
+                        -48.65940191286,
+                        -27.01701240709
+                    ],
+                    [
+                        -48.65942969332,
+                        -27.01699821787
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "30",
+                "type": "corridor",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65899414988,
+                        -27.01587568303
+                    ],
+                    [
+                        -48.65901008355,
+                        -27.01590003344
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65937588919,
+                    -27.01697196997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65932807190,
+                    -27.01677832642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65833707500,
+                    -27.01554148532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65878715485,
+                    -27.01550507313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "id": "33",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65879541238,
+                        -27.01551790906
+                    ],
+                    [
+                        -48.65882297302,
+                        -27.01550383712
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "id": "16",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65877045180,
+                        -27.01547910903
+                    ],
+                    [
+                        -48.65874020000,
+                        -27.01549455502
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65916366592,
+                    -27.01613654622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65867240133,
+                    -27.01539189640
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65872714418,
+                    -27.01541178938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates",
+                "id": "6"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65885229776,
+                        -27.01600287179
+                    ],
+                    [
+                        -48.65913271829,
+                        -27.01643860873
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65922047569,
+                    -27.01601790257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "20",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65920887378,
+                        -27.01683920843
+                    ],
+                    [
+                        -48.65921709138,
+                        -27.01685197742
+                    ],
+                    [
+                        -48.65918795170,
+                        -27.01686686089
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65870397573,
+                    -27.01537577510
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65918749872,
+                    -27.01603485177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65904853521,
+                    -27.01600818814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65921032175,
+                    -27.01607009477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65906083540,
+                    -27.01593989641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL",
+                "id": "8"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65870397573,
+                        -27.01537577510
+                    ],
+                    [
+                        -48.65867240133,
+                        -27.01539189640
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65901834416,
+                    -27.01597104542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65905866003,
+                    -27.01611787512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65833707500,
+                    -27.01554148532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "id": "44",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65907223513,
+                        -27.01599600708
+                    ],
+                    [
+                        -48.65904853521,
+                        -27.01600818814
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL",
+                "id": "26"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65937588919,
+                        -27.01697196997
+                    ],
+                    [
+                        -48.65939983437,
+                        -27.01695973967
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65911209862,
+                    -27.01601889362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65901767389,
+                    -27.01591175433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65870649994,
+                    -27.01537969886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "32",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65879057545,
+                        -27.01585651486
+                    ],
+                    [
+                        -48.65901837518,
+                        -27.01574020496
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "10",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65919846722,
+                        -27.01654077376
+                    ],
+                    [
+                        -48.65929374454,
+                        -27.01668882178
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65874776900,
+                    -27.01605624193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65882297302,
+                    -27.01550383712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65906514284,
+                    -27.01604312292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "31",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65892070879,
+                        -27.01632496796
+                    ],
+                    [
+                        -48.65892910787,
+                        -27.01632067800
+                    ],
+                    [
+                        -48.65904693570,
+                        -27.01650376679
+                    ],
+                    [
+                        -48.65926883785,
+                        -27.01639042698
+                    ],
+                    [
+                        -48.65913950304,
+                        -27.01618945765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL",
+                "id": "15"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65927026856,
+                        -27.01680785024
+                    ],
+                    [
+                        -48.65929832803,
+                        -27.01685145076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65923834522,
+                    -27.01685954057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65939546853,
+                    -27.01700239350
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "id": "11",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65886089513,
+                        -27.01561969881
+                    ],
+                    [
+                        -48.65884764977,
+                        -27.01559910954
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65937109182,
+                    -27.01696451553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65909330992,
+                    -27.01602855047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "34",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65931640087,
+                        -27.01672402662
+                    ],
+                    [
+                        -48.65929888456,
+                        -27.01673297331
+                    ],
+                    [
+                        -48.65932807190,
+                        -27.01677832642
+                    ],
+                    [
+                        -48.65920887378,
+                        -27.01683920843
+                    ],
+                    [
+                        -48.65920060031,
+                        -27.01682635260
+                    ],
+                    [
+                        -48.65917206381,
+                        -27.01684092799
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65880106667,
+                    -27.01558842053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL",
+                "id": "48"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65937109182,
+                        -27.01696451553
+                    ],
+                    [
+                        -48.65939987934,
+                        -27.01694981195
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65877517638,
+                    -27.01536913891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "40",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65901008355,
+                        -27.01590003344
+                    ],
+                    [
+                        -48.65911989274,
+                        -27.01606959927
+                    ],
+                    [
+                        -48.65922047569,
+                        -27.01601790257
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65885229776,
+                    -27.01600287179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65913466494,
+                    -27.01606200679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65910111944,
+                    -27.01607924819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65929374454,
+                    -27.01668882178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "id": "25",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65911989274,
+                        -27.01606959927
+                    ],
+                    [
+                        -48.65910111944,
+                        -27.01607924819
+                    ],
+                    [
+                        -48.65910906314,
+                        -27.01609151473
+                    ],
+                    [
+                        -48.65905866003,
+                        -27.01611787512
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65892108248,
+                    -27.01558896832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65879057545,
+                    -27.01585651486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65901008355,
+                    -27.01590003344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "43",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65874776900,
+                        -27.01605624193
+                    ],
+                    [
+                        -48.65892070879,
+                        -27.01632496796
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65901720241,
+                    -27.01591102629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "oneway": "no",
+                "id": "47",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65913271829,
+                        -27.01643860873
+                    ],
+                    [
+                        -48.65919846722,
+                        -27.01654077376
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65871881608,
+                    -27.01539884373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65920887378,
+                    -27.01683920843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "23",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65871836655,
+                        -27.01539814496
+                    ],
+                    [
+                        -48.65877517638,
+                        -27.01536913891
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "id": "38",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65918749872,
+                        -27.01603485177
+                    ],
+                    [
+                        -48.65921032175,
+                        -27.01607009477
+                    ],
+                    [
+                        -48.65915748797,
+                        -27.01609724978
+                    ],
+                    [
+                        -48.65913466494,
+                        -27.01606200679
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65939983437,
+                    -27.01695973967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65920060031,
+                    -27.01682635260
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65881397838,
+                    -27.01549026081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65876365680,
+                    -27.01551707078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "id": "36",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65931640087,
+                        -27.01672402662
+                    ],
+                    [
+                        -48.65941086631,
+                        -27.01667577711
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL",
+                "id": "19"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65883095587,
+                        -27.01557315969
+                    ],
+                    [
+                        -48.65880106667,
+                        -27.01558842053
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65881711523,
+                    -27.01555164510
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65940191286,
+                    -27.01701240709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65874020000,
+                    -27.01549455502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "id": "13",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -48.65901767389,
+                        -27.01591175433
+                    ],
+                    [
+                        -48.65898746568,
+                        -27.01592728049
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65909335627,
+                    -27.01602862204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "outside corridor",
+                "id": "1",
+                "oneway": "no",
+                "alt_name": "NULL",
+                "surface": "concrete:plates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65885020477,
+                    -27.01594920546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "corridor",
+                "id": "1",
+                "oneway": "no",
+                "surface": "Ceramic Floor",
+                "alt_name": "NULL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.65915748797,
+                    -27.01609724978
+                ]
+            }
+        }
+    ]
+}
