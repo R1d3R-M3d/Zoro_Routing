@@ -1,8 +1,9 @@
-/** 
-* Function to Read GeoJSON Data Array Returned from Async Await
-*/
 function addGeojsonFeatureFunc(feature, layer) {
     layer.bindPopup("<b>"+feature.properties.name+"</b>");
+}
+
+function addGeojsonFeatureFuncOpened(feature, layer) {
+    layer.bindPopup("<b>"+feature.properties.name+"</b>", {autoClose:false}).openPopup();
 }
 
 /**
@@ -77,11 +78,25 @@ getGeoJSON().then(data => {
 
     L.geoJSON([data],{
         filter: function(feature, layer) {
+            return (feature.properties.type === "buildings");
+        },
+        style: {
+            color: 'black'
+        },
+        onEachFeature:addGeojsonFeatureFunc
+
+    }).addTo(campusIFC);
+
+    L.geoJSON([data],{
+        filter: function(feature, layer) {
+            addGeojsonFeatureFunc;
             return (feature.properties.type === "room, 1 andar");
         },
         style: {
             weight: 1
-        }
+        },
+        onEachFeature:addGeojsonFeatureFunc
+        
     }).addTo(roomsFloor1);
 
     L.geoJSON([data],{
@@ -90,17 +105,10 @@ getGeoJSON().then(data => {
         },
         style: {
             weight: 1
-        }
-    }).addTo(roomsFloor2);
-
-    L.geoJSON([data],{
-        filter: function(feature, layer) {
-            return (feature.properties.type === "buildings");
         },
-        style: {
-            color: 'gray'
-        }
-    }).addTo(campusIFC);
+        onEachFeature:addGeojsonFeatureFunc
+
+    }).addTo(roomsFloor2);
 });
 
 /// ROUTE DEFINITION
@@ -111,8 +119,8 @@ const route_form = document.getElementById('route_form');
 routeDRAW.addEventListener("click", (event)=> {
     //Prevent the event from submitting the form, no redirect or page reload
     event.preventDefault();
-
-    routesIFC.clearLayers();
+    //Clear the layer (the data) before another query is made
+    routesIFC.clearLayers();    
 
     const formattedFormData = new FormData(route_form);
 
@@ -132,14 +140,59 @@ routeDRAW.addEventListener("click", (event)=> {
     getRouteGeoJSON().then(data => {
     //Add the GeoJSON as a Layer Map Using Leaflet
         L.geoJSON([data], {
-            onEachFeature: addGeojsonFeatureFunc,
             style: {
-                color: 'red'
+                color: 'red',
+                dashArray: '2,5',
+                lineJoin: 'round'
             }
+        }).addTo(routesIFC);
+        /*
+        L.geoJSON([data], {
+            filter: function(feature, layer) {
+                return (feature.properties.seq === 1);
+            }
+        }).addTo(routesIFC);
+        */
+    });
+});
+
+//SEARCH RESOURCES 
+const searchBTN = document.getElementById('search_button');
+
+const search_form = document.getElementById('search_form');
+
+searchBTN.addEventListener("click", (event) => {
+    //Prevent the event from submitting the form, no redirect or page reload
+    event.preventDefault();
+    //Clear the layer (the data) before another query is made
+    routesIFC.clearLayers();    
+    
+    const formattedFormData = new FormData(search_form);
+    
+    async function getGeoJSONresource() {
+        try {
+            const response = await fetch('./resource_search.php',{
+                method: 'POST',
+                body: formattedFormData
+            });
+            
+            return await response.json();
+        } catch (error) {
+            console.log(error);
+        }
+    }
+
+    getGeoJSONresource().then(data => {
+        L.geoJSON([data], {
+            style: {
+                color: 'red',
+            },
+            onEachFeature: addGeojsonFeatureFuncOpened
         }).addTo(routesIFC);
     });
 
-});
+}, false)
+
 
 /** 
 * Base Layers
@@ -165,7 +218,7 @@ var overlayMaps = {
 var map = L.map('map', {
     center: [39.73, -104.99],
     zoom: 10,
-    layers: [campusIFC, roomsFloor1, osm, googleSat]
+    layers: [campusIFC, roomsFloor1, osm, googleSat, routesIFC]
 }).setView([-27.0157806,-48.6607969], 17); //setView([51.505, -0.09], 13);
 
 /** 
