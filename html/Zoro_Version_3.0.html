@@ -35,12 +35,13 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <div id="conteiner">
-            <div id="info">
+            <div id="info"> <!--LEFT-->
                 <h1 id="app_title">ZORO</h1>
+                <!---->
                 <div id="searchBar">
                     <form id="search_form" action="" method="post">
                         <input type="text" name="searchQuery" id="searchQuery" placeholder="Pesquise Aqui " aria-label="Search any Place"/>
-                        <button class="invible_button" type="submit"><span class="material-symbols-outlined blue_text"> search </span></button>
+                        <button class="invible_button" id="search_button" type="submit" value="Search"><span class="material-symbols-outlined blue_text">search </span></button>
                         <div id="separator"></div>
                         <button class="invible_button" id="routeBtn" type="button"><span class="material-symbols-outlined"> alt_route </span></button>
                     </form>
@@ -56,7 +57,7 @@
                             <p>Camadas</p>
                         </li>
                         <li>
-                            <button class="invible_button" type="submit">
+                            <button id="get_location" class="invible_button" type="submit">
                                 <span class="material-symbols-outlined">my_location</span>
                                 <!--<p> Sua Localização</p>-->
                             </button>
@@ -73,7 +74,7 @@
                 </div>
                 <!--Route Definitions, Second Change-->
                 <div id="route_def">
-                    <form id="route_form" action="../php/route_search.php" method="POST">
+                    <form id="route_form" action="" method="POST">
                         <div id="vehicle">
                             <button class="invible_button" type="button"><span class="material-symbols-outlined extra-big-icon">directions_walk</span></button>
                             <button class="invible_button" type="button"><span class="material-symbols-outlined extra-big-icon">directions_bike</span></button>
@@ -96,7 +97,7 @@
                                 <input type="text" name="end_point" id="end_point" placeholder="Destino" aria-label="Search any Place">
                             </div>
                         </div>
-                        <button id="routeStartBtn" type="submit" value="Skicka">Ir</button>
+                        <button id="routeStartBtn" class="btn btn-outline-dark" type="submit" value="Skicka">Ir</button>
                     </form>
                 </div>
                 <!--List of Locals, Saved and Suggestions-->
@@ -107,14 +108,77 @@
                             <li class="list-group-item list-group-item-action list-group-item-light">
                                 <button class="invible_button btn-itens-align" type="submit">
                                     <a href="#" aria-disabled="true">Biblioteca Camboriú - Ins...</a>
-                                    <span class="material-symbols-outlined">directions_alt</span>
+                                    <span class="material-symbols-outlined big-icon">directions_alt</span>
+                                </button>
+                            </li>
+                            <li class="list-group-item list-group-item-action list-group-item-light">
+                                <button class="invible_button btn-itens-align" type="submit">
+                                    <a href="#" aria-disabled="true">Restaurante</a>
+                                    <span class="material-symbols-outlined big-icon">directions_alt</span>
                                 </button>
                             </li>
                         </ul>
                     </div>
+                </div> 
+                <div id="resource_info">
+                    <div id="image_set">
+                        <!-- The expanding image container -->
+                        <div class="container">
+                            <!-- Expanded image -->
+                            <img id="expandedImg" src="../img/Biblioteca_IFC_01.jpeg" style="width:100%">
+                        </div>
+
+                        <!-- The grid: four columns -->
+                        <div class="row">
+                            <div class="column">
+                                <img src="../img/Biblioteca_IFC_01.jpeg" alt="Image 01" onclick="expandImage(this);">
+                            </div>
+                            <div class="column">
+                                <img src="../img/Biblioteca_IFC_02.jpeg" alt="Image 02" onclick="expandImage(this);">
+                            </div>
+                            <div class="column">
+                                <img src="../img/Biblioteca_IFC_03.jpeg" alt="Image 03" onclick="expandImage(this);">
+                            </div>
+                            <div class="column">
+                                <img src="../img/Biblioteca_IFC_04.jpeg" alt="Image 03" onclick="expandImage(this);">
+                            </div>
+                        </div>
+                    </div>
+                    <h1> Lorem Ipsum Dolor Sit Amen, Der Guld</h1>
+                    <div id="rating">
+                        <p>2634</p>
+                        <ul id="star_rating">
+                            <li><a href="" class="star_1"><span class="material-symbols-outlined text-warning">star</span></a></li>
+                            <li><a href="" class="star_2"><span class="material-symbols-outlined text-warning">star</span></a></li>
+                            <li><a href="" class="star_3"><span class="material-symbols-outlined text-warning">star</span></a></li>
+                            <li><a href="" class="star_4"><span class="material-symbols-outlined text-warning">star</span></a></li>
+                            <li><a href="" class="star_5"><span class="material-symbols-outlined text-warning">star</span></a></li>
+                        </ul>
+                        <p>Número de Avaliações</p>
+                    </div>
+                    <p>Status</p>
+                    <div class="horiz_separator"></div>
+                    <div id="social">
+                        <button class="invible_button">
+                            <span class="material-symbols-outlined extra-big-icon">bookmarks</span>
+                            <p>Salvar</p>
+                        </button>
+                        <button class="invible_button">
+                            <span class="material-symbols-outlined extra-big-icon">share</span>
+                            <p>Compartilhar</p>
+                        </button>
+                    </div>
+                    <div class="horiz_separator"></div>
+                    <p id="funcionamento">Funcionamento: Segunda a Sexta-feira das 7h30min às 22h35min</p>
+                    <p id="contatos">
+                        Contatos:
+                        E-mail: biblioteca.camboriu@ifc.edu.br
+                        Fone: (47) 2104-0818 (WhatsApp)
+                        Endereço: Rua: Joaquim Garcia, s/n – caixa postal 2016,  88340-055 – Camboriú – SC
+                        Site: https://biblioteca.ifc.edu.br/biblioteca-camboriu/
+                    </p>
                 </div>
             </div>
-
             <div id="map"><!-- RIGHT --></div>
         </div>
 
